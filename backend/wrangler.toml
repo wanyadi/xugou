@@ -10,7 +10,7 @@ crons = ["* * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "xugou_db"
-database_id = "32a2ca5f-3a77-4b08-965e-804612557880"
+database_id = "5d536da1-eb4d-45a2-849f-f41b0de54737"
 
 [version_metadata]
 binding = "CF_VERSION_METADATA"
